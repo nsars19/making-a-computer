@@ -1,0 +1,16 @@
+{
+  "name": "gates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gates.js",
+  "type": "module",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
